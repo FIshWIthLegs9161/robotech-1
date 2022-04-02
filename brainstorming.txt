@@ -1,0 +1,26 @@
+Justin Ayiih, Kristian Chappell, Tahsin Nabi
+Brainstorming Robotech 4/1/2022
+Issues with Sustainability
+
+E-waste 
+-Electronic repair and fixing history for buyers of refurbished and used goods, If you know what components were replaced or busted prior to purchasing, there is proper documentation and transparency about the product.
+  .In the future, we can provide documentation about how to replace each component via the website to users
+  .Could be used by central repair services as well as users prior to purchasing
+-Imagine buying a refurbished laptop but you can see the history of the product
+-Implementation via weebly, wordpress, python and javafx OR javascript
+-Ie: CarFax but for Laptops, computers, and other expensive components
+
+Fast Fashsion/Shoes
+-App for people to upload their used shoes to make them available for people in need for a low cost
+  .Solves waste from used shoes
+-Allows people to more easily access the specific shoes they want
+-Allow used to input the type of people they are and what functional they need the shoe to be and with algorithms, their optimal shoe is pick for them
+-Different from eBay like solutions because focuses solely on shoes and affordability 
+-Different from stock x like solutions because it can Taylor recommend shoes to persons interest 
+
+Carbon Footprint
+-An app that can track someone’s usage of resources and suggest a daily usage amount. 
+-If a user has a smart-home they can connect it to their home if they want(can pose an issue with control of the house 
+  .so if it’s an app you can discount form the wifi/bluetooth)
+-Also since we have the data about recourse usage people who use robots in their farms can uses our app to save on using resources
+-will farming(this might mean in the future we may have to make our database easily intergatble with other AI farming software in that sector)   
