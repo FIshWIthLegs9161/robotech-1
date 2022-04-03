@@ -1,0 +1,46 @@
+Proposal: 
+An app where users can upload their used devices and electronics repair logs. 
+Users can input information on the device’s history like previous repairs and past damages.
+App allows seller to be more transparent to buyers to create a bigger trust between parties. 
+App creates incentive for others to sell their used devices which leads to less waste.
+
+Risk analysis:
+According to this latest publication from Meticulous Research®, the e-waste management market 
+is expected to grow at a CAGR of 1.8% during 2019-2025 to reach $45.78 billion by 2025.
+
+Pros: There is no app on the market for consumers to check the history of used devices or
+parts/kits for consumers to fix the problem with the devices that they buy or own prior. 
+Sellers can be contacted but we don’t do any shipping and handling. You can basically 
+authenticate the history of a refurbished device. Sellers can link our application to 
+their Ebay,Cagslist, or Amazon.Post and profiles can only be made by the Repair Centers.
+A profile of the history of the  repaired devices would be made for consumers to look at 
+when they are potentially looking to buy the device. It can help different repair centers
+keep up with the history of different devices 
+
+Cons: We don’t handle shipping and handling for products.We don’t evaluate the value of 
+refushied devices.Only repair centers can ACCURATElY update the history of devices.
+Competitors : We don’t have any competitor who provide the same type of services for 
+refushied devices other than the Tech companies to sell their own refurbished devices.
+A competitor could be Ebay, StockX, Amazon with their certified refrushied programs but 
+they don’t provide anything to the of what we’re providing.   
+
+Why? : It can help directly curve e-waste from consumers and also help people buying 
+second hand items with picking a non faulty device.It can help with the transpansity
+of right to repair issues.
+
+What? : We are building an app for our platform where our users can list items and
+update their history for customers to see when the item goes on sale on a website like
+Ebay,Cagslist, or Amazon.
+
+Who? :Our serviced is tailored for only repair centers to uses to keep track on a 
+device’s history.People buy a refurbished item can check it’s history if it was 
+registered through our service. 
+
+How? : Whena  phone is being repaired at a repair center, the center can set a up 
+a profile and register the phone based on a series of information( like a serial 
+number, model number, and the serial number of the part being replaced).  This 
+form can be updated everything the phone is registered at a new shop or if the 
+same shop adds on to the repair history. So when a consumer wants to sell their
+devices they can link their device’s history from our service to the platform 
+they’re selling the device on.
+
