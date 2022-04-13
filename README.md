@@ -15,7 +15,7 @@ We used GitHub to document our design process , Figma to create a working mockup
 We ran into difficulty trying to determine the logistics of the pitch. Specifically how to incentivize consumers to tell the truth when registering devices. We initially tried to implement a database with a javafx application and while we were unsuccessful, our mistakes taught us how to setup the database and connect at a basic level.
 
 ## Accomplishments that we're proud of
-We are proud of our mockup and the depth of our solution. We think that it has a real use as a product we ourselves would actually use.
+We are proud of our mockup and the depth of our solution. We think that it has a real use as a product we ourselves would actually use. This is something that I can see many other companies adopting.
 
 ## What we learned
 We learned about the business aspect of pitching, risk analysis, profitable business models, as well as basic database management with Python.
